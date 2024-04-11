@@ -547,5 +547,5 @@ case 'marshall islands':
       default:
         waterPollutionValue = 'Data not available';
     }
-    result.textContent = `Water pollution index for ${countryName}: ${waterPollutionValue}`;
+    result.textContent = `Water quality index for ${countryName}: ${waterPollutionValue}`;
   });
